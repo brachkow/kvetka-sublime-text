@@ -1,3 +1,5 @@
 # Kvetka for Sublime Text 3+
 
-![Preview]('./preview.png')
+Currently WIP 🚧
+
+![Preview](preview.png)
